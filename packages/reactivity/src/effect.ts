@@ -1,1 +1,4 @@
-export function effect () {}
+
+export function effect (fn) {
+  
+}
